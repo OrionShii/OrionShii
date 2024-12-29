@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @Okky Tri Wahyuda
-- 👀 I’m interested in Web And Game Development
-- 🌱 I’m currently learning React.j, Unreal Engine, And Python
-- 📫 How to reach me DM me on any of my social media platforms.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm both an Investor and Trader.
+👋 Hi, I’m @Okky Tri Wahyuda
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OrionShii)](https://github.com/OrionShii/github-readme-stats)
 
 - **Instagram** : https://bit.ly/OriwaZa 
 - **LinkedIn** : https://bit.ly/OkkyTW
