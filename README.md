@@ -1,4 +1,4 @@
-# I'm Okky Tri Wahyuda 👋🏻
+# Hi, I'm Okky Tri Wahyuda 👋🏻
 
 # 💫 About Me:
 👨‍💻 Web3 Developer sharing my journey and insights about blockchain and future technologies<br>🎮 Game Developer crafting creative and immersive gaming experiences<br>📈 Crypto & Stock Trader leveraging data for financial decision-making<br>🛠️ Currently building Web3 apps, exploring blockchain integration in gaming<br>💻 Enjoy coding random things and experimenting with new ideas<br>💡 #learninginpublic in the world of blockchain, game development, and beyond
@@ -15,4 +15,3 @@
 <img alt="My Stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrionShii&theme=swift&hide_border=false&include_all_commits=false&count_private=false&langs_count=8&layout=compact"/>
 
 [![](https://visitcount.itsvg.in/api?id=OrionShii&icon=0&color=0)](https://visitcount.itsvg.in)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OrionShii&repo=Posyandu-Dashboard)](https://github.com/OrionShii/Posyandu-Dashboard)
