@@ -1,7 +1,7 @@
 # Hi, I'm Okky Tri Wahyuda 👋🏻
 
 # 💫 About Me:
-I’m passionate about blockchain technology and currently diving deeper into Web3 development. I’m also exploring game development and AI, working on creative ways to solve problems and build innovative solutions. With a strong interest in trading and data analysis, I enjoy uncovering patterns and market dynamics. Always experimenting, learning, and coding, I’m driven to grow and bring fresh ideas to life.
+I’m passionate about blockchain technology and currently diving deeper into Web3 development. I’m also exploring game development, ML and AI, working on creative ways to solve problems and build innovative solutions. With a strong interest in trading and data analysis, I enjoy uncovering patterns and market dynamics. Always experimenting, learning, and coding, I’m driven to grow and bring fresh ideas to life.
 
 
 ## 🌐 Socials:
