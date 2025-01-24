@@ -1,7 +1,12 @@
 # Hi, I'm Okky Tri Wahyuda 👋🏻
 
 # 💫 About Me:
-👨‍💻 Web3 dev figuring out blockchain and all the cool future tech<br>🎮 Game dev bringing fun and creative ideas to life<br>📈 Crypto & stock trader who loves data and market moves<br>🛠️ Currently Building Web3 apps and exploring new possibilities<br>💻 Always coding random stuff and trying out fresh ideas<br>💡 #learninginpublic and sharing the journey
+👨‍💻 Web3 developer exploring blockchain and future technologies<br>
+🤖 AI developer passionate about solving problems and creating intelligent systems<br>
+🎮 Game developer dedicated to crafting engaging and innovative experiences<br>
+📈 Trader with a keen eye for data and market dynamics<br>
+🛠️ Currently focused on building Web3 apps and unlocking new possibilities<br>
+💻 Always learning, coding, and experimenting with fresh ideas
 
 
 ## 🌐 Socials:
