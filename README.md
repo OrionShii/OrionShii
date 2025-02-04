@@ -1,8 +1,13 @@
 # Hi, I'm Okky Tri Wahyuda 👋🏻
 
 # 💫 About Me:
-I’m passionate about blockchain technology and currently diving deeper into Web3 development. I’m also exploring game development, ML and AI, working on creative ways to solve problems and build innovative solutions. With a strong interest in trading and data analysis, I enjoy uncovering patterns and market dynamics. Always experimenting, learning, and coding, I’m driven to grow and bring fresh ideas to life.
+I’m passionate about blockchain technology and currently diving deeper into Web3 development. I’m also exploring game development, Web Development, and AI, working on creative ways to solve problems and build innovative solutions.
 
+With a strong interest in trading and data analysis, I enjoy uncovering patterns and market dynamics. Always experimenting, learning, and coding, I’m driven to grow and bring fresh ideas to life.
+
+🌍 I speak Indonesian, English, and a bit of Chinese and Japanese.
+
+🚀 Let’s connect and collaborate! #Web3 #AI #GameDev #Blockchain
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/C3MeUVKRCD) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/15kMqPRoTr/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/zennshii/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/okkytw) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Okky_TW) 
