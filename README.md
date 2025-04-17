@@ -1,5 +1,7 @@
+<h4 align="left"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"><strong> Hi, I'm Okky, also known as <a href="https://github.com/OrionShii/">OrionShii</a>!</strong></h4>
+
 # 💫 About Me:
-Hi, I'm Okky Tri Wahyuda 👋🏻, I’m passionate about blockchain technology and currently diving deeper into Web3 development. I’m also exploring game development, Web Development, and AI, working on creative ways to solve problems and build innovative solutions.<br><br>With a strong interest in trading and data analysis, I enjoy uncovering patterns and market dynamics. Always experimenting, learning, and coding, I’m driven to grow and bring fresh ideas to life.<br><br>🌍 I speak Indonesian, English, and a bit of Chinese and Japanese.<br><br>🚀 Let’s connect and collaborate! #Web3 #AI #GameDev #Blockchain
+I’m passionate about blockchain technology and currently diving deeper into Web3 development. I’m also exploring game development, Web Development, and AI, working on creative ways to solve problems and build innovative solutions.<br><br>With a strong interest in trading and data analysis, I enjoy uncovering patterns and market dynamics. Always experimenting, learning, and coding, I’m driven to grow and bring fresh ideas to life.<br><br>🌍 I speak Indonesian, English, and a bit of Chinese and Japanese.<br><br>🚀 Let’s connect and collaborate! #Web3 #AI #GameDev #Blockchain
 
 
 ## 🌐 Socials:
