@@ -43,17 +43,17 @@
     <table>
       <tr>
         <td align="center" width="33%">
-          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXo4cTFyam9icjVqZTlucDhvbGM5OW1iM2NxYzVsaXRmN3Zsc28xbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvFocn0wNMx0iv2rYz/giphy.gif" width="100" height="100">
+          <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3U3eTcxcHlxdDd1d3lnNjdqZGw4ZWdscjZ6aTExZm52c3RvODc5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AIlrItaxPyivS/giphy.gif" width="100" height="100">
           <h3>Game Dev</h3>
           <p>Building simple games to understand core logic, design, and player interaction</p>
         </td>
         <td align="center" width="33%">
-          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGdlaXJmbWhoeTZjcGo5YndobGduZXl1YXp3NHViZmYydDV1d3JveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4FGrYKtP0pBGpBAY/giphy.gif" width="100" height="100">
+          <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHNmaWVuMHBjbDE3d2YzdTU3bmdlM3F3enV4dnBuOTVmanBjYjluayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5k5vZwRFZR5aZeniqb/giphy.gif" width="100" height="100">
           <h3>AI Exploration</h3>
           <p>Testing small models and tools to automate tasks and generate content</p>
         </td>
         <td align="center" width="33%">
-          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjRkN2YwZmV2cngxODYwMGJqaW9xcmtlZmduY3AycWx1cnVwNnJjZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HVaHPyE3DUFW/giphy.gif" width="100" height="100">
+          <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Fjb3B2czcwaTk4NTdkY2gxb3c1dWk3c2Qzb2lqdHlheGUzZWhxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/trN9ht5RlE3Dcwavg2/giphy.gif" width="100" height="100">
           <h3>Web3 Practice</h3>
           <p>Deploying smart contracts using <b>Solidity</b>, <b>Hardhat</b>, <b>Foundry</b> and <b>Web3.js</b></p>
         </td>
