@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00E1FF&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Okky;Aka+OrionShii;Web3+Dev+%26+Game+Dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00E1FF&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Okky;aka+OrionShii;Web3+Dev+%26+Game+Dev" alt="Typing SVG" />
   <h3>Fullstack Developer | Web3 Explorer | Game Developer</h3>
 </div>
 
