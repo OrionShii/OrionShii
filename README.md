@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/github/followers/OrionShii?style=for-the-badge&logo=github&color=00e1ff&labelColor=1c1c1c" alt="GitHub followers">
   </a>
   <a href="https://github.com/OrionShii?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-25+-1c1c1c?style=for-the-badge&logo=codepen&color=00e1ff&labelColor=1c1c1c" alt="Repositories">
+    <img src="https://img.shields.io/badge/Repositories-30+-1c1c1c?style=for-the-badge&logo=codepen&color=00e1ff&labelColor=1c1c1c" alt="Repositories">
   </a>
   <a href="https://visitcount.itsvg.in/api?id=OrionShii">
     <img src="https://img.shields.io/badge/Profile%20Views-1K+-1c1c1c?style=for-the-badge&logo=eye&color=00e1ff&labelColor=1c1c1c" alt="Profile Views">
