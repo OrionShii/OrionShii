@@ -15,7 +15,7 @@
 
 - 🎮 **Learning Game Dev** – Building simple games to understand core logic, design, and player interaction  
 - 🧠 **Exploring AI** – Testing small models and tools to automate tasks and generate content  
-- ⛓️ **Practicing Web3** – Deploying smart contracts using **Solidity**, **Hardhat**, and **Web3.js**  
+- ⛓️ **Practicing Web3** – Deploying smart contracts using **Solidity**, **Hardhat**, **Foundry** and **Web3.js**  
 
 </details>
 
