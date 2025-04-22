@@ -63,9 +63,8 @@
 </details>
 
 <br>
-
-## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="28"> Tech Stack
-
+<details>
+<summary><h2> <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="28"> My Favorite Tech Stack</h2></summary>
 <div align="center">
 
 ### **Programming Languages**
@@ -117,7 +116,7 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 </div>
-
+</details>
 
 <br>
 
