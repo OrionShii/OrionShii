@@ -30,10 +30,12 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> About Me
 
-- 🎮 Passionate about building **interactive experiences** and solving **real-world problems**
-- 🧠 Currently learning **Zero-Knowledge Proofs, Solidity Optimization, and Smart Contract Security**
-- 🌐 Fluent in **Bahasa Indonesia**, **English**, and a bit in **Mandarin & Japanese**
-- 🎯 Always open to collaboration on **Web3, Games, AI, and creative projects**
+<img src="https://github.com/OrionShii/OrionShii/blob/main/Assets/illustrasi.png" width="350" align="right" />
+
+- 🎮 Passionate about building **interactive experiences** and solving **real-world problems**  
+- 🧠 Currently learning **Zero-Knowledge Proofs**, **Solidity Optimization**, and **Smart Contract Security**  
+- 🌐 Fluent in **Bahasa Indonesia**, **English**, and a bit of **Mandarin** & **Japanese**  
+- 🤝 Always open to collaboration on **Web3**, **Games**, **AI**, and **creative projects**  
 - 🚀 Continuously exploring new technologies and paradigms in the digital world
 
 <details>
