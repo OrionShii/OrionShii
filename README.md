@@ -123,7 +123,7 @@
 
 <br>
 
-## 📊 GitHub Stats
+## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa25qd2JwM2gzc3h1cmI4ZW5yemNxbnNxZTIwODUwbnRpOWJqMjF5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="28"> Github Stats
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=OrionShii&show_icons=true&count_private=true&hide_border=true&title_color=00e1ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="OrionShii's GitHub stats" /> 
