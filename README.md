@@ -32,11 +32,7 @@
 
 <img src="https://github.com/OrionShii/OrionShii/blob/main/Assets/illustrasi.png" width="350" align="right" />
 
-- 🎮 Passionate about building **interactive experiences** and solving **real-world problems**  
-- 🧠 Currently learning **Zero-Knowledge Proofs**, **Solidity Optimization**, and **Smart Contract Security**  
-- 🌐 Fluent in **Bahasa Indonesia**, **English**, and a bit of **Mandarin** & **Japanese**  
-- 🤝 Always open to collaboration on **Web3**, **Games**, **AI**, and **creative projects**  
-- 🚀 Continuously exploring new technologies and paradigms in the digital world
+Focused on creating innovative digital experiences, I specialize in Web3, AI, and game development, while actively improving my skills in Zero-Knowledge Proofs, Solidity optimization, and smart contract security, with a strong drive to contribute to impactful projects and collaborate in cutting-edge technology environments.
 
 <details>
 <summary><h2> <img src="https://media.giphy.com/media/K1oJhRNg8YrJCNUrSB/giphy.gif" width="30"> Current Interests & Projects</h2></summary>
