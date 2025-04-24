@@ -39,7 +39,7 @@
 - 🚀 Continuously exploring new technologies and paradigms in the digital world
 
 <details>
-<summary><h2> <img src="https://media.giphy.com/media/K1oJhRNg8YrJCNUrSB/giphy.gif" width="28"> Current Interests & Projects</h2></summary>
+<summary><h2> <img src="https://media.giphy.com/media/K1oJhRNg8YrJCNUrSB/giphy.gif" width="30"> Current Interests & Projects</h2></summary>
 
   <br>
   <div align="center">
@@ -67,7 +67,7 @@
 
 <br>
 <details>
-<summary><h2> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3RoaXd3emhkcGdhMmRoeXJ3NDF3MnZuMWl4Mmdkc2h0YnlrNGl2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3hLW6IdSX4CMW8RrBn/giphy.gif" width="28"> My Favorite Tech Stack</h2></summary>
+<summary><h2> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3RoaXd3emhkcGdhMmRoeXJ3NDF3MnZuMWl4Mmdkc2h0YnlrNGl2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3hLW6IdSX4CMW8RrBn/giphy.gif" width="30"> My Favorite Tech Stack</h2></summary>
 <div align="center">
 
 ### **Programming Languages**
@@ -123,7 +123,7 @@
 
 <br>
 
-## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa25qd2JwM2gzc3h1cmI4ZW5yemNxbnNxZTIwODUwbnRpOWJqMjF5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="28"> Github Stats
+## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa25qd2JwM2gzc3h1cmI4ZW5yemNxbnNxZTIwODUwbnRpOWJqMjF5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="30"> Github Stats
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=OrionShii&show_icons=true&count_private=true&hide_border=true&title_color=00e1ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="OrionShii's GitHub stats" /> 
