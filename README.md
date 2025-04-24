@@ -39,7 +39,8 @@
 - 🚀 Continuously exploring new technologies and paradigms in the digital world
 
 <details>
-  <summary><h2>🔥 Current Interests & Projects</h2></summary>
+<summary><h2> <img src="https://media.giphy.com/media/K1oJhRNg8YrJCNUrSB/giphy.gif" width="28"> Current Interests & Projects</h2></summary>
+
   <br>
   <div align="center">
     <table>
@@ -66,7 +67,7 @@
 
 <br>
 <details>
-<summary><h2> <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="28"> My Favorite Tech Stack</h2></summary>
+<summary><h2> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3RoaXd3emhkcGdhMmRoeXJ3NDF3MnZuMWl4Mmdkc2h0YnlrNGl2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3hLW6IdSX4CMW8RrBn/giphy.gif" width="28"> My Favorite Tech Stack</h2></summary>
 <div align="center">
 
 ### **Programming Languages**
