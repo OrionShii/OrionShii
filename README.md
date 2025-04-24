@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00E1FF&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Okky;aka+OrionShii;Web3+Dev+%26+Game+Dev" alt="Typing SVG" />
-  <h3>Fullstack Developer | Web3 Explorer | Game Developer</h3>
+  <h3>✦ ✧ ✧ Fullstack Developer | Web3 Explorer | Game Developer ✧ ✧ ✦</h3>
 </div>
 
 <div align="center">
@@ -18,8 +18,7 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px" height="30px">
-  <strong>Exploring the convergence of Blockchain, AI, and Game Development</strong>
+  <strong>✥┈━ Exploring the convergence of Blockchain, AI, and Game Development ━┈✥</strong>
 </p>
 
 <div align="center">
@@ -32,7 +31,7 @@
 
 <img src="https://github.com/OrionShii/OrionShii/blob/main/Assets/illustrasi.png" width="350" align="right" />
 
-Passionate about creating innovative digital experiences, I specialize in Web3, AI, and game development, while continuously enhancing my skills in Zero-Knowledge Proofs, Solidity optimization, and smart contract security, eager to contribute to impactful projects and collaborate in forward-thinking tech environments.
+ıllıllı Passionate about creating innovative digital experiences, I specialize in Web3, AI, and game development, while continuously enhancing my skills in Zero-Knowledge Proofs, Solidity optimization, and smart contract security, eager to contribute to impactful projects and collaborate in forward-thinking tech environments. ıllıllı
 
 <details>
 <summary><h2> <img src="https://media.giphy.com/media/K1oJhRNg8YrJCNUrSB/giphy.gif" width="30"> Current Interests & Projects</h2></summary>
