@@ -171,4 +171,6 @@
   <h4>👾 Let's collaborate and build something legendary.</h4>
 </div>
 
-<!-- Proudly crafted by OrionShii -->
+  <div align="center">
+    <sub><sup>Created with ❤️ by OrionShii</sup></sub>
+  </div>
