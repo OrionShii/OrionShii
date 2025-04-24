@@ -32,7 +32,7 @@
 
 <img src="https://github.com/OrionShii/OrionShii/blob/main/Assets/illustrasi.png" width="350" align="right" />
 
-Focused on creating innovative digital experiences, I specialize in Web3, AI, and game development, while actively improving my skills in Zero-Knowledge Proofs, Solidity optimization, and smart contract security, with a strong drive to contribute to impactful projects and collaborate in cutting-edge technology environments.
+Passionate about creating innovative digital experiences, I specialize in Web3, AI, and game development, while continuously enhancing my skills in Zero-Knowledge Proofs, Solidity optimization, and smart contract security, eager to contribute to impactful projects and collaborate in forward-thinking tech environments.
 
 <details>
 <summary><h2> <img src="https://media.giphy.com/media/K1oJhRNg8YrJCNUrSB/giphy.gif" width="30"> Current Interests & Projects</h2></summary>
