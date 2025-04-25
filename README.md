@@ -29,7 +29,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> About Me
 
-<img src="https://github.com/OrionShii/OrionShii/blob/main/Assets/illustrasi.png" width="350" align="right" />
+<img src="https://github.com/OrionShii/OrionShii/blob/main/Assets/illustrasi.png" width="300" align="right" />
 
 ıllıllı Passionate about creating innovative digital experiences, I specialize in Web3, AI, and game development, while continuously enhancing my skills in Zero-Knowledge Proofs, Solidity optimization, and smart contract security, eager to contribute to impactful projects and collaborate in forward-thinking tech environments. ıllıllı
 
