@@ -156,10 +156,6 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00e1ff&height=120&section=footer"/>
-</div>
-
-<div align="center">
   <h3>
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHZ2cXRmZzVjMG85ZzR2dTR2MnAxOWt0Y3V4eGwzeXRkanEwYXA1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="25">
     "Blending creativity with code to shape the future of digital experiences."
