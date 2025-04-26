@@ -4,15 +4,14 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/OrionShii">
-    <img src="https://img.shields.io/github/followers/OrionShii?style=for-the-badge&logo=github&color=00e1ff&labelColor=1c1c1c" alt="GitHub followers">
-  </a>
   <a href="https://github.com/OrionShii?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-30+-1c1c1c?style=for-the-badge&logo=codepen&color=00e1ff&labelColor=1c1c1c" alt="Repositories">
+    <img src="https://img.shields.io/badge/Repositories-30+-5BC0EB?style=for-the-badge&logo=github&labelColor=0D1117" alt="Repositories">
   </a>
-  <a href="https://visitcount.itsvg.in/api?id=OrionShii">
-    <img src="https://img.shields.io/badge/Profile%20Views-1K+-1c1c1c?style=for-the-badge&logo=eye&color=00e1ff&labelColor=1c1c1c" alt="Profile Views">
+  <a href="https://github.com/OrionShii?tab=followers">
+    <img src="https://img.shields.io/github/followers/OrionShii?style=for-the-badge&logo=github&color=5BC0EB&labelColor=0D1117" alt="GitHub Followers">
   </a>
+  <img src="https://komarev.com/ghpvc/?username=OrionShii&label=Profile+Views&color=5BC0EB&style=for-the-badge&labelColor=0D1117" alt="Profile Views">
+  <img src="https://img.shields.io/badge/Daily+Coding-5%2B+Hours-5BC0EB?style=for-the-badge&logo=visual-studio-code&labelColor=0D1117" alt="Daily Coding">
 </div>
 
 <br>
