@@ -28,36 +28,9 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> About Me
 
-<img src="https://github.com/OrionShii/OrionShii/blob/main/Assets/illustrasi.png" width="300" align="right" />
+<img src="https://github.com/OrionShii/OrionShii/blob/main/Assets/code.gif" width="300" align="right" />
 
 ıllıllı Passionate about creating innovative digital experiences, I specialize in Web3, AI, and game development, while continuously enhancing my skills in Zero-Knowledge Proofs, Solidity optimization, and smart contract security, eager to contribute to impactful projects and collaborate in forward-thinking tech environments. ıllıllı
-
-<details>
-<summary><h2> <img src="https://media.giphy.com/media/K1oJhRNg8YrJCNUrSB/giphy.gif" width="30"> Current Interests & Projects</h2></summary>
-
-  <br>
-  <div align="center">
-    <table>
-      <tr>
-        <td align="center" width="33%">
-          <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3U3eTcxcHlxdDd1d3lnNjdqZGw4ZWdscjZ6aTExZm52c3RvODc5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AIlrItaxPyivS/giphy.gif" width="100" height="100">
-          <h3>Game Dev</h3>
-          <p>Building simple games to understand core logic, design, and player interaction</p>
-        </td>
-        <td align="center" width="33%">
-          <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHNmaWVuMHBjbDE3d2YzdTU3bmdlM3F3enV4dnBuOTVmanBjYjluayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5k5vZwRFZR5aZeniqb/giphy.gif" width="100" height="100">
-          <h3>AI Exploration</h3>
-          <p>Testing small models and tools to automate tasks and generate content</p>
-        </td>
-        <td align="center" width="33%">
-          <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Fjb3B2czcwaTk4NTdkY2gxb3c1dWk3c2Qzb2lqdHlheGUzZWhxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/trN9ht5RlE3Dcwavg2/giphy.gif" width="100" height="100">
-          <h3>Web3 Practice</h3>
-          <p>Deploying smart contracts using <b>Solidity</b>, <b>Hardhat</b>, <b>Foundry</b> and <b>Web3.js</b></p>
-        </td>
-      </tr>
-    </table>
-  </div>
-</details>
 
 <br>
 <details>
@@ -117,20 +90,21 @@
 
 <br>
 
-## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa25qd2JwM2gzc3h1cmI4ZW5yemNxbnNxZTIwODUwbnRpOWJqMjF5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="30"> Github Stats
+## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa25qd2JwM2gzc3h1cmI4ZW5yemNxbnNxZTIwODUwbnRpOWJqMjF5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="20"> Github Stats
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=OrionShii&show_icons=true&count_private=true&hide_border=true&title_color=00e1ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="OrionShii's GitHub stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrionShii&layout=compact&hide_border=true&title_color=00e1ff&text_color=c9d1d9&bg_color=0d1117" alt="Most used languages" />
+  <img width="45%" height="160px" src="https://github-readme-stats.vercel.app/api?username=OrionShii&show_icons=true&count_private=true&hide_border=true&title_color=00e1ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="OrionShii's GitHub stats" />
+  <img width="35%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrionShii&layout=compact&hide_border=true&title_color=00e1ff&text_color=c9d1d9&bg_color=0d1117" alt="Most used languages" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OrionShii&bg_color=0d1117&color=00e1ff&line=00b4ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="98%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OrionShii&bg_color=0d1117&color=00e1ff&line=00b4ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="80%">
 </div>
 
 <br>
+
 
 ## 🌐 Connect With Me
 
@@ -153,15 +127,13 @@
 </div>
 
 <br>
-
 <div align="center">
   <h3>
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHZ2cXRmZzVjMG85ZzR2dTR2MnAxOWt0Y3V4eGwzeXRkanEwYXA1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="25">
-    "Blending creativity with code to shape the future of digital experiences."
+    "I love Dragon <img src="https://github.com/OrionShii/OrionShii/blob/main/Assets/dragon.gif" width="40" /> and Zelda <img src="https://github.com/OrionShii/OrionShii/blob/main/Assets/link.gif" width="40" />"
   </h3>
   <h4>👾 Let's collaborate and build something legendary.</h4>
 </div>
 
-  <div align="center">
-    <sub><sup>Created with ❤️ by OrionShii</sup></sub>
-  </div>
+<div align="center">
+  <sub><sup>Created with ❤️ by OrionShii</sup></sub>
+</div>
