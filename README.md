@@ -1,3 +1,8 @@
+<div align="center" style="display: flex; justify-content: space-between; width: 100%; max-width: 600px;">
+  <img src="Assets/dragon.gif" width="100" alt="Left GIF">
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <!-- Space between GIFs -->
+  <img src="Assets/earth.gif" width="100" alt="Right GIF">
+</div>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00E1FF&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Okky;aka+OrionShii;Web3+Dev+%26+Game+Dev" alt="Typing SVG" />
   <h3>✦ ✧ ✧ Fullstack Developer | Web3 Explorer | Game Developer ✧ ✧ ✦</h3>
@@ -15,11 +20,11 @@
 
 <br>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=OrionShii&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117&ring=00E1FF&fire=00B8FF&currStreakLabel=00E1FF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=OrionShii&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117&ring=00E1FF&fire=00B8FF&currStreakLabel=00E1FF" alt="GitHub Streak"  width="450"/>
 </div>
 <div align="center">
   <h3>
-    "I love Dragon <img src="Assets/dragon.gif" width="60" /> and Cat <img src="Assets/catcheese.gif" width="60" />"
+    "I love Cat <img src="Assets/catcheese.gif" width="60" /> and Zelda <img src="Assets/link.gif" width="60" />"
   </h3>
 </div>
 <br>
@@ -108,6 +113,6 @@
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <!-- Space between GIFs -->
   <img src="Assets/alone.gif" width="300" alt="Center GIF" style="margin-left: auto; margin-right: auto;">
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <!-- Space between GIFs -->
-  <img src="Assets/earth.gif" width="150" alt="Right GIF">
+  <img src="Assets/underc.gif" width="150" alt="Right GIF">
 </div>
 
