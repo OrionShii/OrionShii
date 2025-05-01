@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00E1FF&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Okky;aka+OrionShii;Web3+Dev+%26+Game+Dev" alt="Typing SVG" />
   <h3>✦ ✧ ✧ Fullstack Developer | Web3 Explorer | Game Developer ✧ ✧ ✦</h3>
 </div>
-
 <div align="center">
   <a href="https://github.com/OrionShii?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-30+-5BC0EB?style=for-the-badge&logo=github&labelColor=0D1117" alt="Repositories">
@@ -15,20 +14,19 @@
 </div>
 
 <br>
-
-<p align="center">
-  <strong>✥┈━ Exploring the convergence of Blockchain, AI, and Game Development ━┈✥</strong>
-</p>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=OrionShii&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117&ring=00E1FF&fire=00B8FF&currStreakLabel=00E1FF" alt="GitHub Streak" />
 </div>
-
+<div align="center">
+  <h3>
+    "I love Dragon <img src="Assets/dragon.gif" width="50" /> and Cat <img src="Assets/catcheese.gif" width="50" />"
+  </h3>
+</div>
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> About Me
 
-<img src="https://github.com/OrionShii/OrionShii/blob/main/Assets/code.gif" width="300" align="right" />
+<img src="Assets/code.gif" width="200" align="right" />
 
 ıllıllı Passionate about creating innovative digital experiences, I specialize in Web3, AI, and game development, while continuously enhancing my skills in Zero-Knowledge Proofs, Solidity optimization, and smart contract security, eager to contribute to impactful projects and collaborate in forward-thinking tech environments. ıllıllı
 
@@ -90,7 +88,7 @@
 
 <br>
 
-## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa25qd2JwM2gzc3h1cmI4ZW5yemNxbnNxZTIwODUwbnRpOWJqMjF5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="20"> Github Stats
+## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa25qd2JwM2gzc3h1cmI4ZW5yemNxbnNxZTIwODUwbnRpOWJqMjF5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="50"> Github Stats
 
 <div align="center">
   <img width="45%" height="160px" src="https://github-readme-stats.vercel.app/api?username=OrionShii&show_icons=true&count_private=true&hide_border=true&title_color=00e1ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="OrionShii's GitHub stats" />
@@ -98,42 +96,17 @@
 </div>
 
 <br>
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=OrionShii&bg_color=0d1117&color=00e1ff&line=00b4ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="80%">
 </div>
-
 <br>
-
-
-## 🌐 Connect With Me
-
-<div align="center">
-  <a href="https://discord.gg/C3MeUVKRCD" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-  <a href="https://www.facebook.com/share/15kMqPRoTr/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
-  </a>
-  <a href="https://www.instagram.com/zennshii/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://www.linkedin.com/in/okkytw" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://x.com/Okky_TW" target="_blank">
-    <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
-  </a>
-</div>
-
 <br>
 <div align="center">
-  <h3>
-    "I love Dragon <img src="https://github.com/OrionShii/OrionShii/blob/main/Assets/dragon.gif" width="40" /> and Zelda <img src="https://github.com/OrionShii/OrionShii/blob/main/Assets/link.gif" width="40" />"
-  </h3>
-  <h4>👾 Let's collaborate and build something legendary.</h4>
+  <h3>Thank you for visiting my GitHub! 😊</h3>
 </div>
 
 <div align="center">
-  <sub><sup>Created with ❤️ by OrionShii</sup></sub>
+  <img src="Assets/underc.gif" width="100" alt="Left GIF">
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <!-- Space between GIFs -->
+  <img src="Assets/earth.gif" width="100" alt="Right GIF">
 </div>
