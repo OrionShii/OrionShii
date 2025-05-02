@@ -1,8 +1,8 @@
 <div align="center" style="display: flex; justify-content: space-between; width: 100%; max-width: 600px;">
   <img src="Assets/dragon.gif" width="150" alt="Left GIF">
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <!-- Space between GIFs -->
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <!-- Space between GIFs -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00E1FF&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Okky;aka+OrionShii;Web3+Dev+%26+Game+Dev" alt="Typing SVG" alt="Center GIF" style="margin-left: auto; margin-right: auto;">
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <!-- Space between GIFs -->
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <!-- Space between GIFs -->
   <img src="Assets/earth.gif" width="150" alt="Right GIF">
 </div>
 <div align="center">
