@@ -21,7 +21,7 @@
 
 <br>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=OrionShii&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117&ring=00E1FF&fire=00B8FF&currStreakLabel=00E1FF" alt="GitHub Streak"  width="450"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=OrionShii&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117&ring=00E1FF&fire=00B8FF&currStreakLabel=00E1FF" alt="GitHub Streak"  width="470"/>
 </div>
 <div align="center">
   <h3>
@@ -97,12 +97,12 @@
 ## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa25qd2JwM2gzc3h1cmI4ZW5yemNxbnNxZTIwODUwbnRpOWJqMjF5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="50"> Github Stats
 
 <div align="center">
-  <img width="45%" height="160px" src="https://github-readme-stats.vercel.app/api?username=OrionShii&show_icons=true&count_private=true&hide_border=true&title_color=00e1ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="OrionShii's GitHub stats" />
-  <img width="35%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrionShii&layout=compact&hide_border=true&title_color=00e1ff&text_color=c9d1d9&bg_color=0d1117" alt="Most used languages" />
+  <img width="55%" height="160px" src="https://github-readme-stats.vercel.app/api?username=OrionShii&show_icons=true&count_private=true&hide_border=true&title_color=00e1ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="OrionShii's GitHub stats" />
+  <img width="40%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrionShii&layout=compact&hide_border=true&title_color=00e1ff&text_color=c9d1d9&bg_color=0d1117" alt="Most used languages" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OrionShii&bg_color=0d1117&color=00e1ff&line=00b4ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="80%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OrionShii&bg_color=0d1117&color=00e1ff&line=00b4ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="90%">
 </div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OrionShii/OrionShii/output/pacman-contribution-graph-dark.svg">
