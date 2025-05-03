@@ -100,10 +100,6 @@
   <img width="55%" height="160px" src="https://github-readme-stats.vercel.app/api?username=OrionShii&show_icons=true&count_private=true&hide_border=true&title_color=00e1ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="OrionShii's GitHub stats" />
   <img width="40%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrionShii&layout=compact&hide_border=true&title_color=00e1ff&text_color=c9d1d9&bg_color=0d1117" alt="Most used languages" />
 </div>
-<br>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OrionShii&bg_color=0d1117&color=00e1ff&line=00b4ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="90%">
-</div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OrionShii/OrionShii/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OrionShii/OrionShii/output/pacman-contribution-graph.svg">
