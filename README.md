@@ -6,7 +6,7 @@
   <img src="Assets/earth.gif" width="150" alt="Right GIF">
 </div>
 <div align="center">
-  <h3>✦ ✧ ✧ Fullstack Developer | Web3 Explorer | Game Developer ✧ ✧ ✦</h3>
+  <h3>✦ ✧ ✧ Fullstack Web3 Developer | Blockchain Explorer | Game Developer ✧ ✧ ✦</h3>
 </div>
 <div align="center">
   <a href="https://github.com/OrionShii?tab=repositories">
