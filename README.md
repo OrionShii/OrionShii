@@ -37,7 +37,6 @@
 ıllıllı Passionate about creating innovative digital experiences, I specialize in Web3, AI, and game development, while continuously enhancing my skills in Zero-Knowledge Proofs, Solidity optimization, and smart contract security, eager to contribute to impactful projects and collaborate in forward-thinking tech environments. ıllıllı
 
 <br>
-<details>
 <summary><h2> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3RoaXd3emhkcGdhMmRoeXJ3NDF3MnZuMWl4Mmdkc2h0YnlrNGl2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3hLW6IdSX4CMW8RrBn/giphy.gif" width="30"> My Favorite Tech Stack</h2></summary>
 <div align="center">
 
@@ -90,7 +89,6 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 </div>
-</details>
 
 <br>
 
