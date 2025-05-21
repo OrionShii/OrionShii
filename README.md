@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/github/followers/OrionShii?style=for-the-badge&logo=github&color=5BC0EB&labelColor=0D1117" alt="GitHub Followers">
   </a>
   <img src="https://komarev.com/ghpvc/?username=OrionShii&label=Profile+Views&color=5BC0EB&style=for-the-badge&labelColor=0D1117" alt="Profile Views">
-  <img src="https://img.shields.io/badge/Daily+Coding-5%2B+Hours-5BC0EB?style=for-the-badge&logo=visual-studio-code&labelColor=0D1117" alt="Daily Coding">
+  <img src="https://img.shields.io/badge/Daily+Coding-3%2B+Hours-5BC0EB?style=for-the-badge&logo=visual-studio-code&labelColor=0D1117" alt="Daily Coding">
 </div>
 
 <br>
