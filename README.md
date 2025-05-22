@@ -122,21 +122,6 @@ I'm eager to contribute to impactful projects and collaborate in forward-thinkin
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| 🌐 **DeFi Protocol** | Advanced decentralized finance platform | Solidity, React, Web3.js | 🚀 Active |
-| 🎮 **Web3 Game** | Blockchain-based RPG adventure | Unity, Solidity, IPFS | 🔧 Development |
-| 🤖 **AI Chatbot** | Intelligent conversation assistant | Python, TensorFlow, NLP | ✅ Complete |
-| 📱 **Mobile DApp** | Cross-platform blockchain app | React Native, Ethereum | 🔄 Testing |
-
-</div>
-
----
-
 ## 🤝 Let's Connect & Collaborate
 
 <div align="center">
