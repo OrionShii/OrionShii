@@ -35,7 +35,7 @@
 
 <img src="Assets/code.gif" width="200" align="right" />
 
-**ıllıllı Passionate Digital Creator ıllıllı**
+**ıllıllı Passionate Developer 😎ıllıllı**
 
 I specialize in creating innovative digital experiences across Web3, AI, and game development. My journey involves continuously enhancing skills in:
 
